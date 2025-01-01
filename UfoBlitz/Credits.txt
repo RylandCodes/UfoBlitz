@@ -1,0 +1,4 @@
+Game background Music loop short by yummie 
+-- https://freesound.org/s/410574/ -- License: Attribution 4.0
+
+laser_gun_sound.mp3 by Smoker858 -- https://freesound.org/s/508854/ -- License: Creative Commons 0
