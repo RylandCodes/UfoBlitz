@@ -15,3 +15,5 @@
   <li>Move. Arrow Keys</li>
   <li>Restart. R</li>
 </ul>
+<h4>Goal</h4>
+<p>Shoot the aliens to gain points and not hitting the alien will deduct your points</p>
