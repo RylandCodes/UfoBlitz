@@ -19,4 +19,4 @@
 <p>Shoot the aliens to gain points and not hitting the alien will deduct your points. Also a random flying alien will come every few seconds so you also have to avoid that.</p>
 
 <h2>4. Note</h2>
-<p>The game saves your highscore when you leave through a .txt file so do not delete or change the file</p>
+<p>The game saves your highscore when you leave through a <code>.txt</code> file so do not delete or change the file</p>
