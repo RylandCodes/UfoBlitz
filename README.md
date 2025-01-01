@@ -6,4 +6,4 @@
 <p>The game also needs <code>os</code>, <code>sys</code>, <code>random</code> and <code>pathlib</code> Which are all pre installed but pathlib was only introduced in Python 3.4, so you will need a modern Python version</p>
 
 <h2>2. Downloading and Playing the Game</h2>
-<p>Download the ZIP folder for the game and extract the "UfoBlitz" Folder and put it into your Desktop</p>
+<p>Download the ZIP folder for the game and extract the "UfoBlitz" Folder and place it in your desktop</p>
