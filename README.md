@@ -16,4 +16,4 @@
   <li>Restart. R</li>
 </ul>
 <h4>Goal</h4>
-<p>Shoot the aliens to gain points and not hitting the alien will deduct your points. Also a random flying alien will come every few seconds so you also have to avoid that</p>
+<p>Shoot the aliens to gain points and not hitting the alien will deduct your points. Also a random flying alien will come every few seconds so you also have to avoid that. The game saves your highscore when you leave through a txt file so do not delete that</p>
