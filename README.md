@@ -9,3 +9,9 @@
 <p>Download the ZIP folder for the game and extract the "UfoBlitz" folder and place it in your desktop. Open your terminal and type <code>cd Desktop/UfoBlitz</code> and then type <code>python main.py</code> or <code>python3 main.py</code>. After you type that, a pygame window should open and you can play the game! Have fun!</p>
 
 <h2>3. How to play the game</h2>
+<ul>
+  <li>Start. F </li>
+  <li>Shoot. Space or Q</li>
+  <li>Move. Arrow Keys</li>
+  <li>Restart. R</li>
+</ul>
